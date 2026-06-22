@@ -47,9 +47,9 @@
 
 ## 💻 Скриншоты дашборда
 
-> **💡 Совет по оформлению:** Сделай скриншот своего запущенного дашборда в браузере, сохрани картинку в папку проекта под именем `dashboard_preview.png` и раскомментируй строчку ниже:
->  
-> ![Интерфейс дашборда](dashboard_preview.png)
+<img width="1556" height="856" alt="image" src="https://github.com/user-attachments/assets/93667c07-2a00-45c1-8877-49ab875f7fee" />
+<img width="1533" height="552" alt="image" src="https://github.com/user-attachments/assets/cca155ac-0393-426f-9ccd-585edbfdbcb8" />
+<img width="1514" height="553" alt="image" src="https://github.com/user-attachments/assets/8710b82d-7173-4ee8-961e-8dec2edfcfd7" />
 
 ---
 
